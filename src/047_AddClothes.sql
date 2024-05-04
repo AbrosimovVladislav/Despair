@@ -2,13 +2,13 @@ INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, i
                   description, volume, weight, inventory_image)
 VALUES ('Шапка Ana Tactical Флисовая М1 Multicam', 'Ana M1 Cap MC', 'Шапка Ana Tactical Флисовая М1 Multicam',
         'CapAnaTacticalFleeceM1Multicam.ext', 'IMPLEMENT', 62, 3, null,
-        'https://anatactical.ru/odezhda/golovnye-ubory/882', '1*1', 0.1, 'CapAnaTacticalFleeceM1Multicam.image');
+        'https://anatactical.ru/odezhda/golovnye-ubory/882', '1*1', 0.100, 'CapAnaTacticalFleeceM1Multicam.image');
 
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
 VALUES ('Балаклава Ana Tactical Multicam', 'Балаклава Ana MC', 'Балаклава Ana Tactical Multicam',
         'BalaclavaAnaTacticalMulticam.ext', 'https://sketchfab.com/3d-models/balaclava-01ba582bfa254779af71baac65bb1a72', 63, 3, null,
-        'https://anatactical.ru/odezhda/golovnye-ubory/8874', '1*1', 0.1, 'BalaclavaAnaTacticalMulticam.image');
+        'https://anatactical.ru/odezhda/golovnye-ubory/8874', '1*1', 0.100, 'BalaclavaAnaTacticalMulticam.image');
 
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
