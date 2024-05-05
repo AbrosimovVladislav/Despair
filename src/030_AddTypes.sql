@@ -118,3 +118,7 @@ INSERT INTO type (type_name, category_name)
 VALUES ('Specials', 'Valuables'),
        ('Specials', 'Toys'),
        ('Specials', 'Other Specials');
+
+-- Clothes
+INSERT INTO type (type_name, category_name)
+VALUES ('Clothes', 'Patches');
