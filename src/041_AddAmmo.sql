@@ -43,6 +43,6 @@ VALUES ('Коробка патронов 9x18 Пст 50 штук', 'Коробк
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
 VALUES ('Коробка патронов 7.62x39 ПС 30 штук', 'Коробка 7.62x39 ПС', 'Коробка патронов 7.62x39 ПС 30 штук',
-        'Box7.62x39ПС.ext', 'https://sketchfab.com/3d-models/assault-rifle-ammo-box-remake-0e880a3c2cfd4ea9a4891a81f621733b', 12, 3, null,
+        'Box7.62x39ПС.ext', 'https://sketchfab.com/3d-models/ammo-boxes-pack-low-poly-game-ready-bb1f5649dfa74315977e9706d5079a6f', 12, 3, null,
         'Коробка патронов 7.62x39 ПС 30 штук', '1*1', 0.480, 'Box7.62x39ПС.image');
 

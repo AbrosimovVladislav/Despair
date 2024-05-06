@@ -7,7 +7,7 @@ VALUES ('Банка тушенки "Конина"', 'Тушенка "Конин�
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
 VALUES ('Банка КокаКолы', 'Кола', 'Банка КокаКолы',
-        'Cola.ext', 'https://sketchfab.com/3d-models/soda-cans-4e0be610db9646929d8be84491f1a72f', 43, 2, null,
+        'Cola.ext', 'https://sketchfab.com/3d-models/coke-can-0ccc58bd9c2242a680a92801d7fe6bbc', 43, 2, null,
         'Банка КокаКолы', '1*1', 0.360, 'Cola.image');
 
 

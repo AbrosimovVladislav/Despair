@@ -8,7 +8,7 @@ INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, i
                   description, volume, weight, inventory_image)
 VALUES ('Крышка ствольной коробки АК FAB Defense PDC', 'FabDef PDC', 'Крышка ствольной коробки АК FAB Defense PDC',
         'CoverAKFabDefPDC.ext', 'IMPLEMENT', 14, 3, null,
-        'Крышка ствольной коробки АК FAB Defense PDC', '2*1', 0.202, 'CoverAKFabDefPDC.image');
+        'https://line-f.ru/shop/product/28266/kryshka-stvolnoj-korobki-fab-defense-pdc-pod-ak/', '2*1', 0.202, 'CoverAKFabDefPDC.image');
 
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)

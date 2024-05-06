@@ -1,7 +1,7 @@
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
 VALUES ('Пистолет Glock 19 9*19', 'Glock 19', 'Glock 19 9*19',
-        'Glock19.ext', 'IMPLEMENT', 1, 4, null,
+        'Glock19.ext', 'https://stackoverflow.com/questions/77832652/rewrite-domain-in-set-cookie-in-nextjs-dev-server', 1, 4, null,
         'Пистолет Glock 19 9*19', '2*1', 0.600, 'Glock19.image');
 
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,

@@ -26,7 +26,7 @@ INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, i
                   description, volume, weight, inventory_image)
 VALUES ('Бронеплита Гранит 5А', 'Гранит 5А', 'Бронеплита Гранит 5А',
         'BallisticPlateGranit5A.ext', 'IMPLEMENT', 58, 4, null,
-        'https://voensklad.su/sredstva_zaschity/bronezhilet/broneplity-granit-5a', '2*2', 3.100, 'BallisticPlateGranit5A.image');
+        'https://www.ratnikshop.ru/wp-content/uploads/2018/05/f6N1CHWScYw.jpg', '2*2', 3.100, 'BallisticPlateGranit5A.image');
 
 INSERT INTO item (item_name, abbreviation, original_name, file_name, file_url, item_type, rarity, special_attributes,
                   description, volume, weight, inventory_image)
